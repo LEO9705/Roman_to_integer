@@ -30,18 +30,18 @@ g++ main.cpp -o app.exe
 ```bash
 app.exe
 ```
-##Power SHell
+## Power Shell
 ```bash
 .\app.exe
 ```
 
-##Example
+## Example
 ```bash
 Input: MCMXCIV
 Output: 1994
 ```
 
-##Next Improvement
+## Next Improvement
 ```bash
 	•	Reject invalid patterns (e.g., IIV, VV, too many repeats) instead of only validating characters
 	•	Allow lowercase input (iv, xv) by converting to uppercase
