@@ -26,11 +26,11 @@ g++ main.cpp -o app
 ```bash
 g++ main.cpp -o app.exe
 ```
-## Command Prompt:
+## Command Prompt
 ```bash
 app.exe
 ```
-##Power SHell:
+##Power SHell
 ```bash
 .\app.exe
 ```
