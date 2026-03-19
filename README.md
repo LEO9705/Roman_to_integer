@@ -34,11 +34,13 @@ app.exe
 ```bash
 .\app.exe
 ```
+
 ##Example
 ```bash
 Input: MCMXCIV
 Output: 1994
 ```
+
 ##Next Improvement
 ```bash
 	•	Reject invalid patterns (e.g., IIV, VV, too many repeats) instead of only validating characters
